@@ -1,5 +1,5 @@
 ServicesUrl:
-    PolicyApiUrl: http://Microservices.Demo.Policy.API/api/policy  
+    PolicyApiUrl: http://Microservices.Demo.Policy.API/api/policies  
     ProductApiUrl: http://Microservices.Demo.Product.API/api/product 
 RabbitMQSettings:
     Username: admin
